@@ -188,9 +188,10 @@ by default, the target is this:
 (rt.TARGET_FPMS = 0.06),
 //line 17036
 (rt.TARGET_FPMS = 0.06),
-C:\Users\BeyYT\Desktop\elec-test
 ```
 But You Can Change it to 0.05, 0.04, 0.03, 0.02 and 0.01, which should be able to at lease try and make the game smoother.
+
+In This Test, We Changed it to 0.01
 
 Here is an test electron build (with and without the fix.)
 
