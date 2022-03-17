@@ -289,6 +289,6 @@ change it to:
 "verticalSync":false,
 ```
 
-[Download Electron Build Fix](https://cdn.discordapp.com/attachments/948281490788192279/954153211361628180/fix_electron.zip)
+[Download Electron Build Fix (vsync disabled)](https://cdn.discordapp.com/attachments/948281490788192279/954153211361628180/fix_electron.zip)
 
-[Download HTML5 Fix](https://cdn.discordapp.com/attachments/948281490788192279/954153526966226954/fix_html5.zip)
+[Download HTML5 Fix (auto vsync enable/disable)](https://cdn.discordapp.com/attachments/948281490788192279/954153526966226954/fix_html5.zip)
