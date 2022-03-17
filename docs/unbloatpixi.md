@@ -1,3 +1,4 @@
+# UNBLOAT PART
 ## As You Know, Pixi.js is an Renderer For GDevelop, However, in Some Instances....
 ![example1](https://media.discordapp.net/attachments/948281490788192279/954137440841519194/unknown.png)
 
@@ -111,6 +112,7 @@ Electron + opening url's (safe mode)
 
 Helps Quite A Bit.
 
+# SPEED UP / VSYNC PART
 Not Only That, but in the pixi.js file we find this flag:
 ```javascript
 // line 3415 - 3434
